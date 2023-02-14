@@ -1,10 +1,10 @@
 export default defineNuxtConfig({
   ssr: false,
   srcDir: "./",
-  css: ["@/assets/css/main.css"],
+  css: ["@/assets/css/main.css","@/assets/css/slick.css","@/assets/css/tailwind-built.css","@/assets/css/animate.min.css"],
 
   experimental: { payloadExtraction: false },
-
+ 
   runtimeConfig: {
     process: {
       browser: true,

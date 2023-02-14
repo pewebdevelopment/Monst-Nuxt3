@@ -1,0 +1,168 @@
+<template>
+     <section class="py-20">
+                <div class="container">
+                    <div class="max-w-lg mb-16">
+                        <h2 class="mb-4 text-3xl lg:text-4xl font-bold font-heading wow animate__animatedanimated animate__fadeInUp" data-wow-delay=".1s">
+                            <span>Start saving time today and</span>
+                            <span class="text-blue-500">choose</span>
+                            <span>your best plan</span>
+                        </h2>
+                        <p class="text-base lg:text-lg text-blueGray-400 wow animate__animatedanimated animate__fadeInUp" data-wow-delay=".3s">Best for freelance developers who need to save time</p>
+                    </div>
+                    <div class="bg-white border border-gray-200 rounded shadow">
+                        <div class="border-b border-gray-200">
+                            <div class="flex flex-wrap p-6 -mx-3 wow animate__animatedanimated animate__fadeIn" data-wow-delay=".1s">
+                                <div class="w-full lg:w-1/6 text-center lg:text-left text-lg lg:text-base font-semibold lg:font-normal mb-2 lg:mb-0 px-3">Beginner</div>
+                                <div class="w-full lg:w-4/6 mb-6 lg:mb-0 px-3">
+                                    <p class="mb-4 lg:mb-6 leading-loose">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis ultricies est. Duis nec hendrerit magna. Ut vel orci gravida, hendrerit enim non, gravida turpis.</p>
+                                    <ul class="flex flex-col lg:flex-row justify-start space-y-2 lg:space-y-0 lg:space-x-8">
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">12 Emails</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">8 Datebase</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">Unlimited Domains</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">50 GB Storage</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="w-full lg:w-1/6 self-center text-xs px-3">
+                                    <a class="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="#">Buy 25$</a>
+                                    <p class="text-center text-blueGray-400">per month</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-b border-gray-200">
+                            <div class="flex flex-wrap justify-between p-6 -mx-3 wow animate__animatedanimated animate__fadeIn" data-wow-delay=".3s">
+                                <div class="w-full lg:w-1/6 text-center lg:text-left text-lg lg:text-base font-semibold lg:font-normal mb-2 lg:mb-0 px-3">Intermediate</div>
+                                <div class="w-full lg:w-4/6 mb-6 lg:mb-0 px-3">
+                                    <p class="mb-4 lg:mb-6 leading-loose">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis ultricies est. Duis nec hendrerit magna. Ut vel orci gravida, hendrerit enim non, gravida turpis.</p>
+                                    <ul class="flex flex-col lg:flex-row justify-start space-y-2 lg:space-y-0 lg:space-x-8">
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">12 Emails</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">8 Datebase</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">Unlimited Domains</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">50 GB Storage</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="w-full lg:w-1/6 self-center text-xs px-3">
+                                    <a class="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="#">Buy 25$</a>
+                                    <p class="text-center text-blueGray-400">per month</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="border-b border-gray-200">
+                            <div class="flex flex-wrap justify-between p-6 -mx-3 wow animate__animatedanimated animate__fadeIn" data-wow-delay=".5s">
+                                <div class="w-full lg:w-1/6 text-center lg:text-left text-lg lg:text-base font-semibold lg:font-normal mb-2 lg:mb-0 px-3">Advanced</div>
+                                <div class="w-full lg:w-4/6 mb-6 lg:mb-0 px-3">
+                                    <p class="mb-4 lg:mb-6 leading-loose">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis ultricies est. Duis nec hendrerit magna. Ut vel orci gravida, hendrerit enim non, gravida turpis.</p>
+                                    <ul class="flex flex-col lg:flex-row justify-start space-y-2 lg:space-y-0 lg:space-x-8">
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">12 Emails</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">8 Datebase</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">Unlimited Domains</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">50 GB Storage</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="w-full lg:w-1/6 self-center text-xs px-3">
+                                    <a class="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="#">Buy 65$</a>
+                                    <p class="text-center text-blueGray-400">per month</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex flex-wrap p-6 -mx-3 wow animate__animatedanimated animate__fadeIn" data-wow-delay=".7s">
+                                <div class="w-full lg:w-1/6 text-center lg:text-left text-lg lg:text-base font-semibold lg:font-normal mb-2 lg:mb-0 px-3">Professional</div>
+                                <div class="w-full lg:w-4/6 mb-6 lg:mb-0 px-3">
+                                    <p class="mb-4 lg:mb-6 leading-loose">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis ultricies est. Duis nec hendrerit magna. Ut vel orci gravida, hendrerit enim non, gravida turpis.</p>
+                                    <ul class="flex flex-col lg:flex-row justify-start space-y-2 lg:space-y-0 lg:space-x-8">
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">12 Emails</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">8 Datebase</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">Unlimited Domains</span>
+                                        </li>
+                                        <li class="flex">
+                                            <svg class="h-6 w-6 mr-2 text-green-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
+                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                            </svg>
+                                            <span class="text-blueGray-400">50 GB Storage</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="w-full lg:w-1/6 self-center text-xs px-3">
+                                    <a class="block mb-2 py-4 text-center hover:text-white font-semibold bg-blueGray-200 hover:bg-blue-500 rounded" href="#">Buy 25$</a>
+                                    <p class="text-center text-blueGray-400">per month</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+</template>
